@@ -61,3 +61,10 @@ Both team members collaborated and contributed evenly on:
 
 ## Release
 [Release V1.1](https://github.com/SixTRaps/moneymaster/releases/tag/v1.1)
+
+### Code Review Comments for Anni Lin by Kennedy C. Ezumah
+Nice application, Anni! I like how your platform serves a real-world need. 
+Allowing users to see their transactions through the pie chart visualization is an excellent and engaging way to convey information. 
+Your code also looks well-documented. One suggestion I would make is to consider breaking your index.js router file into several different subrouter files to enable greater modularity in your design. 
+I noticed that while switching pages, there is a brief flicker between the next page and the homepage. It may be worthwhile to take another look at your implementaion of page navigation to address this minor detail.
+Overall, great job!
